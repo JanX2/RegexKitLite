@@ -1,7 +1,7 @@
 RegexKitLite
 ============
 
-This is a fork of RegexKit framework available at http://regexkit.sourceforge.net
+This is a fork of RegexKit source code available at http://regexkit.sourceforge.net
 
 License
 -------
